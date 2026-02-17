@@ -35,7 +35,8 @@ I did this project today because I wanted learn how to make my code less vulnera
 ## Connecting to Gemini API
 
 In this step, I'm setting up the Gemini API connection. This involves creating an .env file and adding the Gemini API key to it.  
-I need to do this so I can test (and verify) my connection to Gemini. Run python -m venv venv to download venv and venv\Scripts\activate to start the environment
+I need to do this so I can test (and verify) my connection to Gemini. 
+Run python -m venv venv to download venv and venv\Scripts\activate to start the environment
 
 ![Image](http://learn.nextwork.org/relaxed_vermilion_timid_bat/uploads/ai-security-audit_sec2c3d4)
 
