@@ -16,7 +16,8 @@
 ## Introducing Today's Project!
 
 In this project, I'm going to build a CLI tool that allows me to understand code the could be vulnerable to attacks resulting in future faults. 
-This will give me help me learn what does vulnerable code look like, how to use the Gemini API and how to fix vulnerable code. I'm interested in this because companies like Google and Synk utilise AI to spot vulnerabilites in code early so that they don't become a larger problem in production. 
+This will give me help me learn what does vulnerable code look like, how to use the Gemini API and how to fix vulnerable code. 
+I'm interested in this because companies like Google and Synk utilise AI to spot vulnerabilites in code early so that they don't become a larger problem in production. 
 
 ### Key tools and concepts
 
